@@ -80,6 +80,25 @@ Enjoy! :-)
            Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
     </td>
   </tr>
+  
+  <tr>
+    <th>
+    	<h2>
+       <a href="./project5-Vehicle_Detection">P5 - Vehicle Detection</a>
+       </h2>
+    </th>
+  </tr>
+  <tr>
+    <td>
+     <br>
+      <p align="center">
+           <a href="https://youtu.be/DKvX5ewHNvg"><img src="./project5-Vehicle_Detection/images/vehicle_detection.gif" alt="Overview" width="60%" height="60%"></a> 
+      </p>
+      <br>
+           Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Implemented the same pipeline using a deep network to perform detection. Optimized and evaluated the model on video data from a automotive camera taken during highway driving
+    </td>
+  </tr>
+
 
 
 
